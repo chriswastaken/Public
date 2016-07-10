@@ -30,7 +30,7 @@ $Apps = "googlechrome",
 	    "greenshot",
 	    "linqpad5.install",
 	    "steam",
-	    "spotify",
+	    "spotify",#should be done as regular user
 	    "f.lux",
 	    "everything",
 	    "logparser",
